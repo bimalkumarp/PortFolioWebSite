@@ -9240,7 +9240,7 @@ textarea.form-control {
 .user-img {
   background-size: cover;
   background-repeat: no-repeat;
-  background-position: center center;
+  background-position: top center;
   background-size: 80%; }
 
 .image-popup {
